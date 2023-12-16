@@ -5,7 +5,7 @@
   
   <classes>
     <!--class name="automationtests.SeleniumTest1"/-->
-    <class name="JavaTest1.SeleniumTest1"/>
+    <class name="JavaTest1.TestP1"/>
       </classes>
       
       
